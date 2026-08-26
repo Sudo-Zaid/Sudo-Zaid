@@ -16,7 +16,6 @@
 
 <br/><br/>
 
-<a href="https://sudo-zaid.github.io"><img src="https://img.shields.io/badge/%F0%9F%94%97%20VIEW%20LIVE%20PORTFOLIO-E8B44A?style=for-the-badge&labelColor=0D1117" height="34"/></a>
 
 </div>
 
@@ -110,7 +109,6 @@ class SecurityResearcher:
 
 ### 🤝 Let's Connect
 
-<a href="https://sudo-zaid.github.io"><img src="https://img.shields.io/badge/Portfolio-E8B44A?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/sudo-zaid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 <a href="mailto:sudozaid0x@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
