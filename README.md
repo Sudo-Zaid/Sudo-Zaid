@@ -57,7 +57,15 @@ class SecurityResearcher:
 | **Certified Ethical Hacker (CEH)** | PMYDP — Govt. of Pakistan |
 
 **⏳ In progress:** `CEH v13` · `CRTA (CyberWarFare Labs)` · `ISC2 Certified in Cybersecurity`
-**➕ Specialized courses &amp; simulations:** APIsec · EC-Council CodeRed · Deloitte &amp; Mastercard (Forage)
+### 📚 Specialized Courses &amp; Simulations
+
+| Program | Provider |
+|---------|----------|
+| **PortSwigger Web Security Academy** — SQL Injection & XSS labs | PortSwigger |
+| **API Security Fundamentals & Testing** | APIsec University |
+| **CodeRed** — SQLi · Android Bug Bounty · Cloud · Dark Web | EC-Council |
+| **Cybersecurity Job Simulation** | Deloitte (Forage) |
+| **Cybersecurity Job Simulation** | Mastercard (Forage) |
 
 ---
 
