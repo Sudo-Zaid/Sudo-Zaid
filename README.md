@@ -33,7 +33,7 @@ class SecurityResearcher:
         self.in_progress   = ["CEH v13", "CRTA", "ISC2 CC"]
         self.ctf           = "HTB Cyber Apocalypse 2026 (solo) · LITCTF Top 30 · TryHackMe Top 2%"
         self.leadership    = ["Team Lead — IEEE CS Global Student Challenge 2026",
-                               "Leads Team WarGaye in CTF competitions"]
+                               "Team WarGaye — Leads in CTF competitions"]
         self.tools_built   = 10   # open-source offensive-security tools
         self.frameworks    = ["OWASP Web/API/LLM Top 10", "MITRE ATT&CK", "PTES"]
         self.open_to       = "Security internships & red-team roles"
