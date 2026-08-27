@@ -8,10 +8,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open_to-Security_Internships_%26_Red_Team-E8B44A?style=for-the-badge&labelColor=0D1117"/>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sudozaid0x@gmail.com&amp;su=We're%20interested%20in%20your%20profile&amp;body=Hi%20Zaid%2C%0A%0AWe%20came%20across%20your%20profile%20and%20we're%20interested%20in%20discussing%20an%20opportunity%20with%20you."><img src="https://img.shields.io/badge/Open_to-Security_Internships_%26_Red_Team-E8B44A?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/sudo-zaid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Top%202%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-<a href="mailto:sudozaid0x@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/MZaid"><img src="https://img.shields.io/badge/TryHackMe-Top%202%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://wa.me/923277751004"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/Sudo-Zaid"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
@@ -110,8 +110,8 @@ class SecurityResearcher:
 ### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/sudo-zaid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-<a href="mailto:sudozaid0x@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/MZaid"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://wa.me/923277751004"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/Sudo-Zaid"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/>
