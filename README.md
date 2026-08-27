@@ -54,7 +54,7 @@ class SecurityResearcher:
 | **Certified LLM Security Professional (CLLMSP)** | Red Team Leaders |
 | **Ethical Hacker** | Cisco Networking Academy |
 | **Introduction to Cybersecurity** | Cisco Networking Academy |
-| **PM Youth Skill Development — Cyber Security** | NAVTTC, Govt. of Pakistan |
+| **Certified Ethical Hacker (CEH)** | PMYDP — Govt. of Pakistan |
 
 **⏳ In progress:** `CEH v13` · `CRTA (CyberWarFare Labs)` · `ISC2 Certified in Cybersecurity`
 **➕ Specialized courses &amp; simulations:** APIsec · EC-Council CodeRed · Deloitte &amp; Mastercard (Forage)
