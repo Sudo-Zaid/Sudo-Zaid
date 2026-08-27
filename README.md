@@ -32,7 +32,8 @@ class SecurityResearcher:
                                "LLM Security (CLLMSP)", "Cisco Ethical Hacker"]
         self.in_progress   = ["CEH v13", "CRTA", "ISC2 CC"]
         self.ctf           = "HTB Cyber Apocalypse 2026 (solo) · LITCTF Top 30 · TryHackMe Top 2%"
-        self.leadership    = "Team Lead — IEEE CS Global Student Challenge 2026"
+        self.leadership    = ["Team Lead — IEEE CS Global Student Challenge 2026",
+                               "Leads Team WarGaye in CTF competitions"]
         self.tools_built   = 10   # open-source offensive-security tools
         self.frameworks    = ["OWASP Web/API/LLM Top 10", "MITRE ATT&CK", "PTES"]
         self.open_to       = "Security internships & red-team roles"
@@ -86,10 +87,30 @@ class SecurityResearcher:
 <img src="https://img.shields.io/badge/OWASP_ZAP-1F2937?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLMap-1F2937?style=for-the-badge"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Nmap-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Amass-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subfinder-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nuclei-1F2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gobuster-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ffuf-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hydra-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashcat-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jadx-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MobSF-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frida-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Objection-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADB-1F2937?style=for-the-badge"/>
 
 </div>
 
