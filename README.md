@@ -34,7 +34,7 @@ class SecurityResearcher:
         self.ctf           = "HTB Cyber Apocalypse 2026 (solo) · LITCTF Top 30 · TryHackMe Top 2%"
         self.leadership    = ["Team Lead — IEEE CS Global Student Challenge 2026",
                                "Team WarGaye — Leads in CTF competitions"]
-        self.tools_built   = 10   # open-source offensive-security tools
+        self.tools_built   = 11   # open-source security tools
         self.frameworks    = ["OWASP Web/API/LLM Top 10", "MITRE ATT&CK", "PTES"]
         self.open_to       = "Security internships & red-team roles"
 
@@ -73,13 +73,14 @@ class SecurityResearcher:
 
 | Tool | What it does |
 |------|--------------|
+| **[cve-triage](https://github.com/Sudo-Zaid/cve-triage)** | Ranks vulnerabilities by **exploitation evidence** — CISA KEV + FIRST EPSS + your own asset inventory, not CVSS severity |
 | **[advanced-api-attack-toolkit](https://github.com/Sudo-Zaid/advanced-api-attack-toolkit)** | Active API exploitation — GraphQL abuse, injection fuzzing (SQLi/NoSQLi/cmd/SSTI), mass assignment, data exposure |
 | **[api-authz-fuzzer](https://github.com/Sudo-Zaid/api-authz-fuzzer)** | High-speed access-matrix fuzzer for **BOLA / BFLA** and broken authentication |
 | **[llm-api-proxy-interceptor](https://github.com/Sudo-Zaid/llm-api-proxy-interceptor)** | Intercepting proxy detecting secrets/PII/prompt-injection — DLP + LLM firewall |
 | **[jwt-weakness-scanner](https://github.com/Sudo-Zaid/jwt-weakness-scanner)** | JWT auditor + attack-token forge (alg:none, weak-secret crack, RS256→HS256) |
 | **[llm-redteam-framework](https://github.com/Sudo-Zaid/llm-redteam-framework)** | OWASP-LLM-Top-10 attack-pack red-team harness |
 
-➡️ **All 10 tools →** **[github.com/Sudo-Zaid?tab=repositories](https://github.com/Sudo-Zaid?tab=repositories)**
+➡️ **All 11 tools →** **[github.com/Sudo-Zaid?tab=repositories](https://github.com/Sudo-Zaid?tab=repositories)**
 
 ---
 
