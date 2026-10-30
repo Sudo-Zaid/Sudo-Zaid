@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:30363D&height=210&section=header&text=Muhammad%20Zaid&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Offensive%20Security%20%C2%B7%20Web%20%C2%B7%20API%20%C2%B7%20LLM%20Penetration%20Tester&descSize=18&descAlignY=58&descColor=E8B44A&animation=twinkling" width="100%" alt="Muhammad Zaid"/>
 
 <a href="https://www.linkedin.com/in/sudo-zaid">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E8B44A&center=true&vCenter=true&width=850&lines=Certified+Ethical+Hacker+(CEH)+Candidate;Web+%C2%B7+API+%C2%B7+LLM+Penetration+Tester;CTF+Competitor+%C2%B7+TryHackMe+Top+2%25;I+don't+just+run+tools+%E2%80%94+I+build+them" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E8B44A&center=true&vCenter=true&width=850&lines=Certified+Ethical+Hacker+(CEH);Web+%C2%B7+API+%C2%B7+LLM+Penetration+Tester;CTF+Competitor+%C2%B7+TryHackMe+Top+2%25;I+don't+just+run+tools+%E2%80%94+I+build+them" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -30,7 +30,7 @@ class SecurityResearcher:
         self.education     = "BS Computer Science — University of the Punjab"
         self.certifications = ["Google Cybersecurity", "APIsec Certified Practitioner (ACP)",
                                "LLM Security (CLLMSP)", "Cisco Ethical Hacker"]
-        self.in_progress   = ["CEH v13", "CRTA", "ISC2 CC"]
+        self.in_progress   = ["CRTA", "ISC2 CC"]
         self.ctf           = "HTB Cyber Apocalypse 2026 (solo) · LITCTF Top 30 · TryHackMe Top 2%"
         self.leadership    = ["Team Lead — IEEE CS Global Student Challenge 2026",
                                "Team WarGaye — Leads in CTF competitions"]
@@ -56,7 +56,7 @@ class SecurityResearcher:
 | **Introduction to Cybersecurity** | Cisco Networking Academy |
 | **Certified Ethical Hacker (CEH)** | PMYDP — Govt. of Pakistan |
 
-**⏳ In progress:** `CEH v13` · `CRTA (CyberWarFare Labs)` · `ISC2 Certified in Cybersecurity`
+**⏳ In progress:** `CRTA (CyberWarFare Labs)` · `ISC2 Certified in Cybersecurity`
 ### 📚 Specialized Courses &amp; Simulations
 
 | Program | Provider |
