@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:30363D&height=210&section=header&text=Muhammad%20Zaid&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Offensive%20Security%20%C2%B7%20Web%20%C2%B7%20API%20%C2%B7%20LLM%20Penetration%20Tester&descSize=18&descAlignY=58&descColor=E8B44A&animation=twinkling" width="100%" alt="Muhammad Zaid"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:30363D&height=210&section=header&text=Muhammad%20Zaid&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Offensive%20Security%20%C2%B7%20Web%20%C2%B7%20API%20Penetration%20Tester&descSize=18&descAlignY=58&descColor=E8B44A&animation=twinkling" width="100%" alt="Muhammad Zaid"/>
 
 <a href="https://www.linkedin.com/in/sudo-zaid">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E8B44A&center=true&vCenter=true&width=850&lines=Certified+Ethical+Hacker+(CEH)+Candidate;Web+%C2%B7+API+%C2%B7+LLM+Penetration+Tester;CTF+Competitor+%C2%B7+TryHackMe+Top+2%25;I+don't+just+run+tools+%E2%80%94+I+build+them" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E8B44A&center=true&vCenter=true&width=850&lines=Certified+Ethical+Hacker+(CEH)+Candidate;Web+%C2%B7+API+Penetration+Tester;CTF+Competitor+%C2%B7+TryHackMe+Top+2%25;I+don't+just+run+tools+%E2%80%94+I+build+them" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -26,16 +26,16 @@ class SecurityResearcher:
     def __init__(self):
         self.name          = "Muhammad Zaid"
         self.alias         = "Sudo-Zaid"
-        self.role          = "Offensive Security · Web / API / LLM Penetration Tester"
+        self.role          = "Offensive Security · Web / API Penetration Tester"
         self.education     = "BS Computer Science — University of the Punjab"
         self.certifications = ["Google Cybersecurity", "APIsec Certified Practitioner (ACP)",
-                               "LLM Security (CLLMSP)", "Cisco Ethical Hacker"]
+                               "Cisco Ethical Hacker"]
         self.in_progress   = ["CEH v13", "CRTA", "ISC2 CC"]
         self.ctf           = "HTB Cyber Apocalypse 2026 (solo) · LITCTF Top 30 · TryHackMe Top 2%"
         self.leadership    = ["Team Lead — IEEE CS Global Student Challenge 2026",
                                "Team WarGaye — Leads in CTF competitions"]
-        self.tools_built   = 11   # open-source security tools
-        self.frameworks    = ["OWASP Web/API/LLM Top 10", "MITRE ATT&CK", "PTES"]
+        self.tools_built   = 9    # open-source security tools
+        self.frameworks    = ["OWASP Web/API Top 10", "MITRE ATT&CK", "PTES"]
         self.open_to       = "Security internships & red-team roles"
 
     def mission(self):
@@ -51,7 +51,6 @@ class SecurityResearcher:
 | **Google Cybersecurity Professional Certificate** | Google (Coursera) |
 | **APIsec Certified Practitioner (ACP)** | APIsec University |
 | **API Penetration Testing** | APIsec University |
-| **Certified LLM Security Professional (CLLMSP)** | Red Team Leaders |
 | **Ethical Hacker** | Cisco Networking Academy |
 | **Introduction to Cybersecurity** | Cisco Networking Academy |
 | **Certified Ethical Hacker (CEH)** | PMYDP — Govt. of Pakistan |
@@ -76,11 +75,9 @@ class SecurityResearcher:
 | **[cve-triage](https://github.com/Sudo-Zaid/cve-triage)** | Ranks vulnerabilities by **exploitation evidence** — CISA KEV + FIRST EPSS + your own asset inventory, not CVSS severity |
 | **[advanced-api-attack-toolkit](https://github.com/Sudo-Zaid/advanced-api-attack-toolkit)** | Active API exploitation — GraphQL abuse, injection fuzzing (SQLi/NoSQLi/cmd/SSTI), mass assignment, data exposure |
 | **[api-authz-fuzzer](https://github.com/Sudo-Zaid/api-authz-fuzzer)** | High-speed access-matrix fuzzer for **BOLA / BFLA** and broken authentication |
-| **[llm-api-proxy-interceptor](https://github.com/Sudo-Zaid/llm-api-proxy-interceptor)** | Intercepting proxy detecting secrets/PII/prompt-injection — DLP + LLM firewall |
 | **[jwt-weakness-scanner](https://github.com/Sudo-Zaid/jwt-weakness-scanner)** | JWT auditor + attack-token forge (alg:none, weak-secret crack, RS256→HS256) |
-| **[llm-redteam-framework](https://github.com/Sudo-Zaid/llm-redteam-framework)** | OWASP-LLM-Top-10 attack-pack red-team harness |
 
-➡️ **All 11 tools →** **[github.com/Sudo-Zaid?tab=repositories](https://github.com/Sudo-Zaid?tab=repositories)**
+➡️ **All 9 tools →** **[github.com/Sudo-Zaid?tab=repositories](https://github.com/Sudo-Zaid?tab=repositories)**
 
 ---
 
